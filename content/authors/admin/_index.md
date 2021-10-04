@@ -24,7 +24,7 @@ interests:
 
 # Education to show in About widget
 education:
-
+  courses:
   - course: BSc in automotive engineering
     institution: Central South University
     year: 2020
